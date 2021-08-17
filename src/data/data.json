@@ -1,0 +1,87 @@
+[
+    {
+    "id": 0,
+    "title": "Model S",
+    "description": "Order Online for Touchless Delivery",
+    "image": "/images/model-s.jpg",
+    "range": "390",
+    "time": "1.99",
+    "topSpeed": "200",
+    "peakPower": "1,020",
+    "leftbtn":"Custom Order",
+    "rightbtn":"Existing inventory"
+},
+{
+    "id": 1,
+    "title": "Model 3",
+    "description": "Order Online for Touchless Delivery",
+    "image": "/images/model-3.jpg",
+    "range": "400",
+    "time": "2.99",
+    "topSpeed": "180",
+    "peakPower": "900",
+    "leftbtn":"Custom Order",
+    "rightbtn":"Existing inventory"
+},
+{
+    "id": 2,
+    "title": "Model X",
+    "description": "Order Online for Touchless Delivery",
+    "image": "/images/model-x.jpg",
+    "range": "350",
+    "time": "1.55",
+    "topSpeed": "150",
+    "peakPower": "1,130",
+    "leftbtn":"Custom Order",
+    "rightbtn":"Existing inventory"
+},
+{
+    "id": 3,
+    "title": "Model Y",
+    "description": "Order Online for Touchless Delivery",
+    "image": "/images/model-y.jpg",
+    "range": "410",
+    "time": "2.05",
+    "topSpeed": "190",
+    "peakPower": "1,040",
+    "leftbtn":"Custom Order",
+    "rightbtn":"Existing inventory"
+},
+{
+    "id": 4,
+    "title": "Lowest Cost Solar Panels in America",
+    "description": "Money-back guarantee",
+    "image": "/images/solar-panel.jpg",
+    "range": "410",
+    "time": "2.05",
+    "topSpeed": "190",
+    "peakPower": "1,040",
+    "leftbtn":"Order now",
+    "rightbtn":"Learn more"
+},
+{
+    "id": 5,
+    "title": "Solar from New Roofs",
+    "description": "Solar Roof Costs Less Than a New Roof Plus Solar Panels",
+    "image": "/images/solar-roof.jpg",
+    "range": "410",
+    "time": "2.05",
+    "topSpeed": "190",
+    "peakPower": "1,040",
+    "leftbtn":"Order now",
+    "rightbtn":"Learn more"
+},
+{
+    "id": 6,
+    "title": "Accessories",
+    "description": "",
+    "image": "/images/accessories.jpg",
+    "range": "410",
+    "time": "2.05",
+    "topSpeed": "190",
+    "peakPower": "1,040",
+    "leftbtn":"Order now",
+    "rightbtn":""
+}
+
+]
